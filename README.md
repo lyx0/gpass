@@ -1,2 +1,2 @@
 # gpasss
-Generate a password
+Generate a password.
